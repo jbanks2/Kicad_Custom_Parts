@@ -10,4 +10,8 @@ D Button
 K Switch
 $ENDCMP
 #
+$CMP Si1865DDL
+F http://www.mouser.com/ds/2/427/si1865ddl-537172.pdf
+$ENDCMP
+#
 #End Doc Library
