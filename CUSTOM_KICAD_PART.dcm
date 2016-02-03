@@ -5,6 +5,14 @@ D Standard IDC6 Male Connector, ATMEL PDI 6pin
 K IDC6 Male Connector
 $ENDCMP
 #
+$CMP DB9
+K CONN
+$ENDCMP
+#
+$CMP DB9_SMT
+K CONN
+$ENDCMP
+#
 $CMP SW_PUSH_SLD
 D Button
 K Switch
